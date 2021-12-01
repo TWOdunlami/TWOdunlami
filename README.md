@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Tania
+- 👋🏽 Hi, I’m Tania
 - 📔 I’m interested in all things that inspire positive growth and change
-- 👩🏽‍🏫 I’m currently learning the foundations of web development, HTML|CSS|Javascript
-- ♾️ I’m looking to collaborate on more personal learning projects [Google Homepage](https://twodunlami.github.io/SearchClone/)
+- 👩🏽‍🏫 Continuously learning all things web development, |HTML|CSS|Javascript| & |related frameworks|.
+- ♾️ Personal learning projects [Google Homepage](https://twodunlami.github.io/SearchClone/)
 - 📫 How to reach me ... submit a [PULL](https://github.com/TWOdunlami) request and we can learn collabortively!
 
 <!---
