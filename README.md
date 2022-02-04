@@ -5,7 +5,7 @@
 <br>
 -👩🏽‍🏫  Continuously learning all things web development, |HTML|CSS|Javascript| & |related frameworks|.
 <br>
--♾️  Personal learning projects [Google Homepage](https://twodunlami.github.io/SearchClone/) and [yourNotebook](https://twodunlami.github.io/yourNotebook/)
+-♾️  Personal Portfolio projects [Google Homepage](https://twodunlami.github.io/SearchClone/) , [yourNotebook](https://twodunlami.github.io/yourNotebook/) , [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) , and [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes)
 <br>
 -📫  How to reach me ... submit a [PULL](https://github.com/TWOdunlami) request and we can learn collabortively!
 <br>
