@@ -3,9 +3,14 @@
 <br>
 -📔  I’m interested in all things that inspire positive growth and change.
 <br>
--👩🏽‍🏫  Continuously learning all things web development, |HTML|CSS|Javascript| & |related frameworks|.
+-👩🏽‍🏫  Continuously learning all things web development, <code>HTML</code> <code>CSS</code> <code>Javascript</code> & <code>Front-end frameworks</code>.
 <br>
--♾️  Personal Portfolio projects [Google Homepage](https://twodunlami.github.io/SearchClone/) , [yourNotebook](https://twodunlami.github.io/yourNotebook/) , [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) , [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes) , and [Educational Coursework portfolio](https://twar-portfolio.netlify.app/)
+-♾️  Personal Portfolio projects: 
+  - [Google Homepage](https://twodunlami.github.io/SearchClone/) 
+  - [yourNotebook](https://twodunlami.github.io/yourNotebook/)
+  - [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) 
+  - [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes)
+  - [Educational Coursework portfolio](https://twar-portfolio.netlify.app/)
 <br>
 -📫  How to reach me ... submit a [PULL](https://github.com/TWOdunlami) request and we can learn collabortively!
 <br>
