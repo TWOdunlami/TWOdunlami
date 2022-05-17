@@ -1,7 +1,6 @@
-#👋🏽 Hi, I’m Tania
-<br>
-<br>
-- 📔  I’m interested in all things that inspire positive growth and change.
+# 👋🏽 Hi, I’m Tania
+
+#### 📔 I’m interested in all things that inspire positive growth and change.
 
 - 📓  Thank you for taking the time to read my digital notebook. 
 The README.md files in my list of public repositories are documented to showcase the visual changes applied to my planned portfolio projects using various software tools geared in web development, and overall project tracking.
