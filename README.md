@@ -15,7 +15,7 @@ The README.md files in my list of public repositories are documented to showcase
   - [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) 
   - [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes)
   - [Educational Coursework portfolio](https://twar-portfolio.netlify.app/)
-  - [Insurance Claims Adjuster](https://claimsadjuster-tania.netlify.app/)
+  - [Insurance Claims Adjuster Countdown](https://claimsadjuster-tania.netlify.app/)
   - [Codepen colletion](https://codepen.io/collection/dbvKdj)
 
 
