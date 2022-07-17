@@ -14,9 +14,9 @@ The README.md files in my list of public repositories are documented to showcase
   - [yourNotebook](https://twodunlami.github.io/yourNotebook/)
   - [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) 
   - [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes)
-  - [Educational Coursework portfolio](https://twar-portfolio.netlify.app/)
+  - [Misc Memory Game](https://miscmemorygame.netlify.app/)
   - [Insurance Claims Adjuster Countdown](https://claimsadjuster-tania.netlify.app/)
-  - [Codepen colletion](https://codepen.io/collection/dbvKdj)
+  - [TWBlack](https://twblack.netlify.app/)
 
 
 - 📫  How to reach me ... submit a [PULL](https://github.com/TWOdunlami) request and we can learn collabortively!
