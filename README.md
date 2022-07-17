@@ -14,15 +14,16 @@ The README.md files in my list of public repositories are documented to showcase
   - [yourNotebook](https://twodunlami.github.io/yourNotebook/)
   - [Everyday Quotes](https://github.com/TWOdunlami/PerspectiveQuotes) 
   - [Veggie Recipes](https://github.com/TWOdunlami/Odin-Veggie-Recipes)
-  - [Misc Memory Game](https://miscmemorygame.netlify.app/)
+  - [Miscellaneous Memory Game](https://miscmemorygame.netlify.app/)
   - [Insurance Claims Adjuster Countdown](https://claimsadjuster-tania.netlify.app/)
-  - [TWBlack](https://twblack.netlify.app/)
+  - [TWBlack Typing Game](https://twblack.netlify.app/)
 
 
 - 📫  How to reach me ... submit a [PULL](https://github.com/TWOdunlami) request and we can learn collabortively!
 
 <img width='300' src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOdunlami" />
 <img width='300' src="https://github-readme-stats.vercel.app/api?username=TWOdunlami" />
+<img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TWOdunlami&theme=vue" />
 <!---
 TWOdunlami/TWOdunlami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
